@@ -4,7 +4,7 @@ An analysis of **10,000 US patient records** to find what drives medical costs, 
 
 **Business question:** Which patient groups drive the most medical cost, and where should a health programme or insurer focus first?
 
-![Average medical cost by age, BMI class and smoking status](average_cost_charts.png)
+
 
 ---
 
